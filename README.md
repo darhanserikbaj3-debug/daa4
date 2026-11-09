@@ -74,3 +74,4 @@ n is the length of the text (or of a strain), m the length of the pattern, k the
 - The work is pushed to main (at least one commit per mission) and the repository is public.
 - The link is attached in Moodle.
 # neet
+# daa4
